@@ -6,7 +6,7 @@ import { ThemeProvider } from '@/components/custom/theme-provider';
 import './globals.css';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://chat.vercel.ai'),
+  metadataBase: new URL('https://astra-pro.vercel.app'),
   title: 'Goastra AI Chatbot',
   description: 'Goastra AI Chatbot',
 };

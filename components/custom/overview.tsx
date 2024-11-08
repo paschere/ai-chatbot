@@ -1,8 +1,7 @@
 import { motion } from 'framer-motion';
-import Link from 'next/link';
-
 import { LineChart, MessageSquare, TrendingUp } from 'lucide-react';
 import Image from 'next/image';
+import Link from 'next/link';
 
 export const Overview = () => {
   return (
@@ -40,8 +39,8 @@ export const Overview = () => {
           >
             Goastra
           </Link>
-          . I'm specialized in digital marketing strategies, market analysis,
-          and business optimization.
+          . I&apos;m specialized in digital marketing strategies, market
+          analysis, and business optimization.
         </p>
         <p>
           I can help you with SEO strategies, content marketing, social media
@@ -49,7 +48,8 @@ export const Overview = () => {
           ask me anything related to digital marketing and business growth!
         </p>
         <p className="text-sm text-muted-foreground">
-          Powered by Goastra's advanced AI technology for marketing intelligence
+          Powered by Goastra&apos;s advanced AI technology for marketing
+          intelligence
         </p>
       </div>
     </motion.div>
