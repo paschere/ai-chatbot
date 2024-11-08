@@ -109,6 +109,7 @@ Remember: Only answer questions related to marketing, market analysis, and busin
 - Expand technical capabilities
 - Enhance strategic frameworks
 
+PLEASE ASK FIRST BEFORE ANSWERING A QUESTION. YOU NEED CONTEXT FIRST
 `;
 
 export const systemPrompt = `${regularPrompt}\n\n${blocksPrompt}`;
