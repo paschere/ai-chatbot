@@ -24,14 +24,49 @@ import { Textarea } from '../ui/textarea';
 
 const suggestedActions = [
   {
-    title: 'What is the weather',
-    label: 'in San Francisco?',
-    action: 'What is the weather in San Francisco?',
+    title: 'Launch Campaign',
+    label: 'Marketing Strategy',
+    action:
+      'Help me create a comprehensive marketing campaign strategy with budget allocation and KPIs',
   },
   {
-    title: 'Help me draft an essay',
-    label: 'about Silicon Valley',
-    action: 'Help me draft a short essay about Silicon Valley',
+    title: 'SEO Audit',
+    label: 'Website Growth',
+    action:
+      'Perform a complete SEO audit of my website and provide actionable recommendations',
+  },
+  {
+    title: 'Social Media',
+    label: 'Strategy & Content',
+    action:
+      'Develop a social media strategy with content calendar and engagement tactics',
+  },
+  {
+    title: 'Analytics',
+    label: 'Performance Review',
+    action:
+      'Help me understand my key metrics and create a data-driven growth strategy',
+  },
+  {
+    title: 'Content Plan',
+    label: 'Editorial Strategy',
+    action: 'Create a content marketing plan with distribution strategy',
+  },
+  {
+    title: 'Paid Ads',
+    label: 'PPC & Social Ads',
+    action: 'Help me optimize my paid advertising campaigns for better ROI',
+  },
+  {
+    title: 'Brand Building',
+    label: 'Identity & Voice',
+    action: 'Help me develop a strong brand identity and market positioning',
+  },
+  {
+    title: 'Lead Generation',
+    label: 'Conversion Focus',
+    action:
+      'Create a lead generation strategy with funnel optimization tactics',
   },
 ];
 
